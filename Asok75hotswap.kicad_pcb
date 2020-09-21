@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 148)
+    (drawings 143)
     (tracks 3098)
     (zones 0)
     (modules 224)
@@ -10129,15 +10129,8 @@
     )
   )
 
-  (gr_circle (center 274.6375 159.54375) (end 275.7895 159.54375) (layer Edge.Cuts) (width 0.05) (tstamp 5F40096A))
-  (gr_circle (center -35.71875 23.01875) (end -34.56675 23.01875) (layer Edge.Cuts) (width 0.05) (tstamp 5F40096A))
-  (gr_circle (center 274.6375 23.01875) (end 275.7895 23.01875) (layer Edge.Cuts) (width 0.05) (tstamp 5F40096A))
-  (gr_circle (center -34.925 159.54375) (end -33.773 159.54375) (layer Edge.Cuts) (width 0.05))
   (gr_text "Designed by Asok" (at 252.984 111.125) (layer B.SilkS) (tstamp 5F3FD7DF)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-  )
-  (gr_text JLCJLCJLCJLC (at -29.464 154.813) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_line (start 239.442665 152.129125) (end 218.755295 152.129125) (layer Edge.Cuts) (width 0.05) (tstamp 5F3FF4BB))
   (gr_line (start 266.728005 152.129125) (end 247.479485 152.129125) (layer Edge.Cuts) (width 0.05) (tstamp 5F3FF4BA))
